@@ -1,0 +1,14 @@
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\Web\obj\Debug\netcoreapp2.1\Web.csprojAssemblyReference.cache
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\Web\bin\Debug\netcoreapp2.1\Web.deps.json
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\Web\bin\Debug\netcoreapp2.1\Web.runtimeconfig.json
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\Web\bin\Debug\netcoreapp2.1\Web.runtimeconfig.dev.json
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\Web\bin\Debug\netcoreapp2.1\Web.dll
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\Web\bin\Debug\netcoreapp2.1\Web.pdb
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\Web\obj\Debug\netcoreapp2.1\Web.csproj.CoreCompileInputs.cache
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\Web\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cache
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\Web\obj\Debug\netcoreapp2.1\Web.RazorAssemblyInfo.cs
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\Web\obj\Debug\netcoreapp2.1\Web.AssemblyInfoInputs.cache
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\Web\obj\Debug\netcoreapp2.1\Web.AssemblyInfo.cs
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\Web\obj\Debug\netcoreapp2.1\Web.RazorTargetAssemblyInfo.cache
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\Web\obj\Debug\netcoreapp2.1\Web.dll
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\Web\obj\Debug\netcoreapp2.1\Web.pdb

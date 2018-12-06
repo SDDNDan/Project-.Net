@@ -1,0 +1,12 @@
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\BusinessLayer\bin\Debug\netcoreapp2.1\DomainLayer.dll
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.deps.json
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\BusinessLayer\bin\Debug\netcoreapp2.1\DomainLayer.pdb
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CopyComplete
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\Dslusari\Desktop\ProiectNet\Project-.Net\WebApi\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.pdb
